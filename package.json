@@ -1,0 +1,19 @@
+{
+  "name": "sajt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "console.log(\"log\")"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BodilessSleeper/sajt.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BodilessSleeper/sajt/issues"
+  },
+  "homepage": "https://github.com/BodilessSleeper/sajt#readme"
+}
